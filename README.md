@@ -1,4 +1,5 @@
 # Final Project Interactive Graphics
+Project for the Interactive Graphics course of the "Artificial Intelligence and Robotics" Master Degree at University "La Sapienza" of Rome
 ## Done By Team CocoNuts
 
 
