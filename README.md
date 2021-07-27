@@ -4,7 +4,7 @@
 
 # Authors 
 ## Ermanno Bartoli https://github.com/ErmannoBartoli99
-## Francesco Argenziano
+## Francesco Argenziano https://github.com/Fra-Tsuna
 
 This is game in which you're the driver of a ferrari. Try to not hit other wehicles and survive as long as possible.
 
